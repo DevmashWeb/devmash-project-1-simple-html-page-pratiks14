@@ -10,7 +10,24 @@ color:darkolivegreen !important;
 {
 	color:green;
 }
-body :hover {
+img:hover {
   box-shadow: 0px 23px 46px -23px rgba(0, 0, 0, 0.75);
   transform: translateY(-10px);
+}
+blockquote
+{
+    color:aqua;
+}
+.greycolor
+{
+    background-color:black;
+    height:100%;
+}
+h4
+{
+    background-color:orange;
+}
+.t
+{
+    color:aliceblue;
 }
